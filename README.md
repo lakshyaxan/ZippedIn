@@ -1,4 +1,4 @@
-# ZIP Puzzle Game
+# ZippedIn Game
 
 A clean, grid-based logic puzzle built for Android.
 
