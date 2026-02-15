@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Zip Game</string>
+    <string name="win_message">Level Complete!</string>
+</resources>

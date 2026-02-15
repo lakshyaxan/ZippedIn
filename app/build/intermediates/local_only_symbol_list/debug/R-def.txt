@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color holo_blue_light
+color holo_green_dark
+color holo_red_light
+color white
+drawable dialog_background
+id btnExit
+id btnReset
+id btn_exit
+id btn_exit_game
+id btn_next_game
+id btn_play
+id gameView
+id tv_completion_time
+id tv_win_message
+layout activity_home
+layout activity_main
+layout dialog_level_complete
+string app_name
+string win_message

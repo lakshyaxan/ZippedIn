@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.zipgame.android.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.zipgame.android.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.zipgame.android.app-merged_res-31:/drawable_dialog_background.xml.flat",
+        "source": "com.zipgame.android.app-main-33:/drawable/dialog_background.xml"
+    },
+    {
+        "merged": "com.zipgame.android.app-merged_res-31:/layout_activity_home.xml.flat",
+        "source": "com.zipgame.android.app-main-33:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.zipgame.android.app-merged_res-31:/layout_dialog_level_complete.xml.flat",
+        "source": "com.zipgame.android.app-main-33:/layout/dialog_level_complete.xml"
+    }
+]

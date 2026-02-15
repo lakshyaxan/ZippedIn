@@ -1,0 +1,4 @@
+com.zipgame.android.test.app-androidTest-0 C:\Users\laksh\projects\zipac\app\build\generated\res\resValues\androidTest\debug
+com.zipgame.android.test.app-mergeDebugAndroidTestResources-1 C:\Users\laksh\projects\zipac\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.zipgame.android.test.app-mergeDebugAndroidTestResources-2 C:\Users\laksh\projects\zipac\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.zipgame.android.test.app-merged_res-3 C:\Users\laksh\projects\zipac\app\build\intermediates\merged_res\debugAndroidTest
